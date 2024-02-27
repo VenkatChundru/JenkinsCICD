@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@RestController
+//@RestController
 public class JenkinscicdApplication {
 
     @GetMapping("/greetings/{name}")
